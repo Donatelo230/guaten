@@ -1,0 +1,69 @@
+.no-padding-gtnk{
+	padding:0!important;
+}
+
+.whithe_bg_gtnk{
+	background: #fff;
+}
+.image-border-gtnk{
+	border: solid 5px #000;
+}
+.btn-profile-gtnk{
+	width:100%;
+	margin: 15px 0px;
+}
+.gray_bg_gtnk{
+	background: #e6e6e6;
+}
+.profile-card-gtnk{
+	background: #fff;
+	padding:50px;
+	margin-top:50px;
+
+}
+.profile-image-gtnk{
+
+}
+.profile-price-gtnk{
+	font-weight: bold;
+	margin-top: 15px;
+}
+
+.profile-enlace-gtnk{
+	text-decoration: underline!important;
+	float: right;
+}
+.title-page-gtnk{
+	text-align: center;
+	font-weight: lighter;
+	margin-top: 25px;
+}
+.title-page-gtnk strong{
+	font-weight: bolder;
+}
+.paginator-gtnk{
+	background: #000;
+	color:#fff;
+	font-weight: lighter;
+	text-align:center;
+	margin-top: 80px;
+	margin-bottom:80px;
+	padding:10px 15px;
+}
+
+.paginator-gtnk strong{
+	font-weight: bold;
+}
+
+
+/*****planes*****/
+
+.profile-image-gtnk--planes{
+	margin-bottom: 20px;
+}
+.banner-l-container-gtnk{
+	background:#000;
+}
+.title-banner-gtnk{
+
+}
